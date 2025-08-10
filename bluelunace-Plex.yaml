@@ -1,0 +1,27 @@
+payload:
+# 代理列表
+
+ # Plex
+  ##- DOMAIN-SUFFIX,plex.tv
+  - DOMAIN,plex.tv
+  - DOMAIN,app.plex.tv
+  - DOMAIN,acoustid.plex.tv
+  - DOMAIN,analytics.plex.tv
+  - DOMAIN,images.plex.tv
+  - DOMAIN,assets.plex.tv
+  - DOMAIN,lyrics.plex.tv
+  - DOMAIN,clients.plex.tv
+  - DOMAIN,discover.provider.plex.tv
+  - DOMAIN,status.plex.tv
+  - DOMAIN,scrobbles.plex.tv
+  - DOMAIN,meta.plex.tv
+  - DOMAIN,metadata-static.plex.tv
+  - DOMAIN,metadata.provider.plex.tv
+  - DOMAIN,mp.plex.tv
+  - DOMAIN,ump.plex.tv
+  - DOMAIN,mpm.plex.tv
+  - DOMAIN,mbz.plex.tv
+  - DOMAIN,vod.provider.plex.tv
+  - DOMAIN,vod-content.plexvideos.com
+  - DOMAIN,features.plex.tv
+  - DOMAIN,community.plex.tv
