@@ -1,0 +1,8 @@
+payload:
+  # 直连列表
+
+  # MyList && Other
+  - DOMAIN-SUFFIX,lunace.tk
+  - DOMAIN-SUFFIX,bluelunacegcp.tk
+  - DOMAIN-SUFFIX,barcodeplus.com.hk
+  - DOMAIN-SUFFIX,letsencrypt.org
