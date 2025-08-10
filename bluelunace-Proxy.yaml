@@ -17,6 +17,7 @@ payload:
 
  # DNS
   - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.org
   - DOMAIN-SUFFIX,ipleak.net
   
  # ANi-Strm
