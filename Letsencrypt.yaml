@@ -1,0 +1,3 @@
+payload:
+  # Letsencrypt,更新ssl证书不能走代理，否则会失败
+  - DOMAIN-SUFFIX,letsencrypt.org
