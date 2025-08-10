@@ -1,0 +1,41 @@
+payload:
+# 代理补充列表
+################################################################################################# 
+# 精确域名匹配​：精确匹配完整域名，仅对完全一致的域名生效                                             #
+# DOMAIN,www.google.com    （仅匹配www.google.com这个域名）                                       #
+# 域名后缀匹配：匹配以指定后缀结尾的完整域名                                                        #
+# DOMAIN-SUFFIX,google.com （会匹配所有以google.com结尾的域名,如drive.google.com、maps.google.com）#
+# 域名关键字匹配：匹配包含特定关键词的域名                                                          #
+# DOMAIN-KEYWORD,google    （会匹配所有包含google这个关键词的域名，如google.com、googlesearch.org） #
+################################################################################################# 
+ # AmazonCloud
+  - DOMAIN-SUFFIX,s3.amazonaws.com
+  
+ # Cloudflare challenges
+  ##- DOMAIN,engage.cloudflareclient.com
+  ##- DOMAIN,challenges.cloudflare.com
+
+ # DNS
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN-SUFFIX,ipleak.net
+  
+ # ANi-Strm
+  - DOMAIN,resources.ani.rip
+  - DOMAIN,aniopen.an-i.workers.dev
+
+ # OpenClash测试国外IP地址
+  - DOMAIN,api.ip.sb
+  - DOMAIN,api-ipv4.ip.sb
+  - DOMAIN,api.ipify.org
+
+ # TMDB
+  - DOMAIN-SUFFIX,themoviedb.org
+
+ # PT网站
+  - DOMAIN-SUFFIX,avistaz.to
+
+ # Porn
+  - DOMAIN-SUFFIX,sehuatang.net
+  - DOMAIN-SUFFIX,t66y.com
+
+ # 其他
