@@ -22,7 +22,7 @@ payload:
   
  # ANi-Strm
   - DOMAIN,resources.ani.rip
-  - DOMAIN,aniopen.an-i.workers.dev
+  - DOMAIN,an-i.workers.dev
 
  # OpenClash测试国外IP地址
   - DOMAIN-SUFFIX,ip.sb
