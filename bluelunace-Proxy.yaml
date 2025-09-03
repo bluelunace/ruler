@@ -33,9 +33,6 @@ payload:
 
  # PT网站
   - DOMAIN-SUFFIX,avistaz.to
-
- # Bit网站
-  - DOMAIN-SUFFIX,blockchain.com
   
  # Porn
   - DOMAIN-SUFFIX,sehuatang.net
