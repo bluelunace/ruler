@@ -23,7 +23,7 @@ payload:
  # ANi-Strm
   - DOMAIN,resources.ani.rip
   - DOMAIN,an-i.workers.dev
-  - DOMAIN,aniapi.v300.eu.org
+  - DOMAIN-SUFFIX,v300.eu.org
 
  # OpenClash测试国外IP地址
   - DOMAIN-SUFFIX,ip.sb
