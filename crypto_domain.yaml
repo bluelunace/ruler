@@ -11,5 +11,5 @@ payload:
  # Crypto网站
   - DOMAIN-SUFFIX,blockchain.com
  
- # Whatsapp
+ # Tron
   - IP-CIDR,52.76.86.154/32,no-resolve
