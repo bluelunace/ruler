@@ -8,11 +8,11 @@ payload:
 # 域名关键字匹配：匹配包含特定关键词的域名                                                          #
 # DOMAIN-KEYWORD,google    （会匹配所有包含google这个关键词的域名，如google.com、googlesearch.org） #
 ################################################################################################# 
+ # 加密货币资讯网站
+  - DOMAIN-SUFFIX,sosovalue.com
+  
  # Crypto网站
   - DOMAIN-SUFFIX,blockchain.com
- 
+
  # Tron
- # - IP-CIDR,52.76.86.154/32,no-resolve
-  - IP-CIDR,16.162.38.213/32,no-resolve
-  - IP-CIDR,44.205.88.94/32,no-resolve
-  - IP-CIDR,18.206.50.220/32,no-resolve
+  - IP-CIDR,52.76.86.154/32,no-resolve
